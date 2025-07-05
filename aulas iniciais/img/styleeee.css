@@ -1,0 +1,30 @@
+body{
+   background-color: green ;
+}
+
+p{
+    color: mediumaquamarine ;
+    font-size: 24px;
+    
+}
+
+h1{
+    color: maroon;
+    font-size: 48px;
+}
+
+h2{
+    color: black ;
+    font-size: 38px;
+}
+h3{
+    color:black;
+    font-size:40px ;
+}
+
+ font{
+  font-family: "font", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
